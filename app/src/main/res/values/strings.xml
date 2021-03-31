@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UIDashboard</string>
+    <string name="hi">Hi!</string>
+    <string name="namira">Namira</string>
+    <string name="artist">Find Your Favorite Artist!</string>
+    <string name="Treasure">TREASURE</string>
+    <string name="nct">NCT</string>
+    <string name="BIGBANG">BIGBANG</string>
+    <string name="iKON">iKON</string>
+    <string name="KLIVE">K-LIVE</string>
+    <string name="textt">Kpop Artist Live Broadcasting</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+    <string name="todo">TODO</string>
+</resources>
