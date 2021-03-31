@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UIDashboard</string>
+    <string name="app_name">Dashboard</string>
     <string name="hi">Hi!</string>
     <string name="namira">Namira</string>
     <string name="artist">Find Your Favorite Artist!</string>
@@ -13,5 +13,4 @@
     <string name="favorite">Favorite</string>
     <string name="account">Account</string>
     <string name="setting">Setting</string>
-    <string name="todo">TODO</string>
 </resources>
